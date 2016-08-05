@@ -3,6 +3,8 @@
 #include <opencv2\opencv.hpp>
 #include <opencv2\nonfree\nonfree.hpp>
 #include "CSVParser.h"
+aiueo
+
 
 const std::string VIDEO_FOLDER = "G:/UCF50/";
 const std::string TRAJECTORIES_FOLDER = "G:/UCF50_Trajectories/";
